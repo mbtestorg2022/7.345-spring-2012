@@ -51,18 +51,177 @@ Grading for this course is pass/fail and will depend on student attendance, prep
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the course | &nbsp; |
-| 2 | The discovery of RNA interference | &nbsp; |
-| 3 | Endogenous miRNA | &nbsp; |
-| 4 | miRNA biogenesis pathway | &nbsp; |
-| 5 | Harnessing RNAi as a tool | Distribute written assignment |
-| 6 | miRNAs in development | &nbsp; |
-| 7 | miRNAs in cancer: tumor suppressors and oncogenes | Written assignment due |
-| 8 | RNAi therapeutics | &nbsp; |
-| 9 | Visit to [Alnylam Pharmaceuticals](http://www.alnylam.com/) | &nbsp; |
-| 10 | Other classes of small noncoding RNAs: piRNAs | Assign papers for oral presentations |
-| 11 | Long noncoding RNAs: XIST | Finalize choice of paper for oral presentation |
-| 12 | Long noncoding RNAs: lincRNAs | &nbsp; |
-| 13 | Final class | Student oral presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The discovery of RNA interference
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Endogenous miRNA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+miRNA biogenesis pathway
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Harnessing RNAi as a tool
+{{< tdclose >}}
+{{< tdopen >}}
+Distribute written assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+miRNAs in development
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+miRNAs in cancer: tumor suppressors and oncogenes
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi therapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to [Alnylam Pharmaceuticals](http://www.alnylam.com/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Other classes of small noncoding RNAs: piRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+Assign papers for oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Long noncoding RNAs: XIST
+{{< tdclose >}}
+{{< tdopen >}}
+Finalize choice of paper for oral presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Long noncoding RNAs: lincRNAs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final class
+{{< tdclose >}}
+{{< tdopen >}}
+Student oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
